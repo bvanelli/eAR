@@ -5,7 +5,7 @@ void setup() {
 }
 
 void loop() {
-  // Ler valor
+  // Ler valor do sensor
   valor = analogRead(potPin);
 
   // Controlar brilho do LED
